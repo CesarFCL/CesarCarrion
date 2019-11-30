@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Punto de partida"
+author: "César Carrión"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+¡Hola! Soy César. Soy un estudiante universitario en la carrera de Ingenieria en Software. Desde que aprendí pequeñas bases de la programación en clases de informática sentí que queria dedicarme a ello, pues la programación es realmente apasionante. Actualmente me ecuentro en primer semestre de la carrera y aún estoy iniciando a adentrarme al mundo de la programación, por lo que, en este blog no encontraras nada muy avanzado y se ira modificando conforme obtenga los conocimientos necesarios para hacer las mejoras pertinentes. Este es mi punto de partida para lograr ser un gran programador.
