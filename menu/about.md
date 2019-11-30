@@ -3,7 +3,9 @@ layout: page
 title: ¿Quién soy?
 ---
 
-![alt text](https://user-images.githubusercontent.com/57689841/69906425-b9171880-1388-11ea-90a1-89c1811fa78b.PNG "César Carrión")
+<p align="center">
+<img width="139" height="153" src="https://user-images.githubusercontent.com/57689841/69906425-b9171880-1388-11ea-90a1-89c1811fa78b.PNG">
+</p>
 
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
