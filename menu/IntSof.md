@@ -11,10 +11,10 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 Pos no hicimos nada realmente, bno en realidad no recuerdo xd.
 
 ## Clase 2 (Titulo de nivel 2)
-Creo que este dia no hubo clases xd :v.
+Creo que este dia no hubo clases xd.
 
 ## Clase 3 (Titulo de nivel 2)
-sdnajndkjsankdjnastontoelqloleaasbndiunasibdisan
+sdnajndkjsankdjasbndiunasibdisan.
 
 ### ¿Qué es el software? (Titulo de nivel 3)
 El software es software :v
@@ -25,7 +25,7 @@ El software es software :v
 
 ##### (Título de nivel 5)
 
-## Dia 4
+## Clase 4
 
 
 <!--<Ejemplo de como se iria estructurando>-->
