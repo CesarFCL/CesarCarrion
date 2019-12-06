@@ -3,7 +3,7 @@ layout: page
 title: Introducción Ingeniería en Software
 ---
 
-En este apartado de colocar todo el material recibido durante las clases de Introducción a la Ingenieria en Software.
+En este apartado se colocara todo el material recibido durante las clases de Introducción a la Ingenieria en Software.
 
 <!--<De aquí para abajo estarian lo que se veria en cada clase segun el plan de clase y en funcion de las diapositivas dadas por el profe??>-->
 
