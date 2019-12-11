@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Introducción Ingeniería en Software
+title: Introducción de la Ingeniería de Software
 ---
 
-En este apartado se colocara todo el material recibido durante las clases de Introducción a la Ingenieria en Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
+En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
-## Dia 1 (21/10/2019)
-## Fundamentos de la Ingeniría de Software(IS)
+<center><strong><big><big><big>Unidad 1</big> </big> </big> </strong> </center>
+
+## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
 ### Definición de IS
 <strong> Fritza Bauer, 1969: </strong>Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
@@ -75,26 +76,26 @@ Su origen se debió a que el entorno de desarrollo de sistemas software adolecí
 Esto es lo que se ha denominado habitualmente "crisis del software", que históricamente se generó en los siguientes pasos:
 
 <li type="square"><strong>Primera Fase. Los albores (1945-1955)</strong> </li>
-&rarr;Programar no es una tarea diferenciada del diseño de una máquina.<br>
-&rarr;Uso de lenguaje máquina y ensamblador.
+&rarr; Programar no es una tarea diferenciada del diseño de una máquina.<br>
+&rarr; Uso de lenguaje máquina y ensamblador.
 
 <li type="square"><strong>Segunda Fase. El florecimiento (1955-1965)</strong> </li>
-&rarr;Aparecen multitud de lenguajes.<br>
-&rarr;Se pensaba que era posible hacer casi todo.
+&rarr; Aparecen multitud de lenguajes.<br>
+&rarr; Se pensaba que era posible hacer casi todo.
 
 <li type="square"><strong>Tercera Fase. La crisis (1965-1970)</strong> </li>
-&rarr;Desarrollo inacabable de grandes programas. Ineficiencia, errores, costes impredecible.<br>
-&rarr;Nada es posible.
+&rarr; Desarrollo inacabable de grandes programas. Ineficiencia, errores, costes impredecible.<br>
+&rarr; Nada es posible.
 
 <li type="square"><strong>Cuarta Fase. Innovación conceptual (1970-1980)</strong> </li>
-&rarr;Fundamentos de programación.<br>
-&rarr;Verificación de programas.<br>
-&rarr;Metodologías de diseño.
+&rarr; Fundamentos de programación.<br>
+&rarr; Verificación de programas.<br>
+&rarr; Metodologías de diseño.
 
 <li type="square"><strong>Quinta Fase. El diseño es el problema (1980-?)</strong> </li>
-&rarr;Entornos de programación.<br>
-&rarr;Especificación formal.<br>
-&rarr;Programación automática.
+&rarr; Entornos de programación.<br>
+&rarr; Especificación formal.<br>
+&rarr; Programación automática.
 
 ### La evolución del software
 
@@ -162,22 +163,6 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 <li type="disc"><strong>Líneas de productos software,</strong> en lugar de productos
 individuales.</li>
 
-## Clase 2 (Titulo de nivel 2)
-Creo que este dia no hubo clases xd.
-
-## Clase 3 (Titulo de nivel 2)
-sdnajndkjsankdjasbndiunasibdisan.
-
-### ¿Qué es el software? (Titulo de nivel 3)
-El software es software :v
-
-### (Titulo de nivel 3)
-
-#### (Título de nivel 4)
-
-##### (Título de nivel 5)
-
-## Clase 4
+## Unidad 2: Fundamentos de la Ingeniría de Software(IS)
 
 
-<!--<Ejemplo de como se iria estructurando>-->
