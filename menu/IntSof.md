@@ -181,7 +181,7 @@ Son las que están relacionadas con el desarrollo del software como funcionalida
 
 Entre las métricas del software tenemos las siguientes:
 
-<li value="1"><strong>Métricas técnicas:</strong> Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.</li>
+<ol><li value="1"><strong>Métricas técnicas:</strong> Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.</li>
 
 <li value="2"><strong>Métricas de calidad:</strong> Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud, integridad, facilidad de uso, estructuración o modularidad, pruebas, facilidad de mantenimiento, reusabilidad, cohesión del módulo, acoplamiento del módulo, etc.</li>
 
@@ -232,4 +232,4 @@ Con los datos registrados durante la elaboración del proyecto podemos generar a
 
 Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad.
 
-Los puntos de función se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li>
+Los puntos de función se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
