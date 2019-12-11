@@ -31,12 +31,11 @@ La Ingeniería del Software es el establecimiento y uso de principios robustos d
 
 <li type="disc">Actuar en todas las fases del ciclo de vida de un producto.</li>
 
-<li type="disc">Computar los costos de un proyecto y evaluar los tiempos de
-desarrollo.</li>
+<li type="disc">Computar los costos de un proyecto y evaluar los tiempos de desarrollo.</li>
 
 <li type="disc">Realizar el seguimiento de costes y plazos.</li>
 
-<li type="disc">Liderar equipos de trabajo de desarrollo so-ware.</li>
+<li type="disc">Liderar equipos de trabajo de desarrollo software.</li>
 
 <li type="disc">Estructurar la elaboración de evidencias que comprueben el perfecto funcionamiento de los programas y que se adaptan a los requerimientos de análisis y diseño.</li>
 
@@ -45,17 +44,13 @@ desarrollo.</li>
 <li type="disc">Liderar y orientar a los programadores durante el desarrollo de
 aplicaciones.</li>
 
-<li type="disc">Incluir procesos de calidad en los sistemas, calculando métricas
-e indicadores y chequeando la calidad del software producido.</li>
+<li type="disc">Incluir procesos de calidad en los sistemas, calculando métricas e indicadores y chequeando la calidad del software producido.</li>
 
 ### Origen de la IS
 
 Ingeniería del So-ware, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
 
-Puede definirse según Alan Davis como "la aplicación inteligente de
-principios probados, técnicas, lenguajes y herramientas para la
-creación y mantenimiento, dentro de un coste razonable, de software
-que satisfaga las necesidades de los usuarios".
+Puede definirse según Alan Davis como "la aplicación inteligente de principios probados, técnicas, lenguajes y herramientas para la creación y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios".
 
 Su origen se debió a que el entorno de desarrollo de sistemas software adolecía de:
 
@@ -123,7 +118,7 @@ Actualmente está surgiendo una gran expectativa ante la evolución de la Ingeni
 Dicho planteamiento permitirá dar respuesta a los problemas de:
 <li type="disc">Administración </li>
 <li type="disc">Calidad </li>
-<li type="disc">Produc7vidad </li>
+<li type="disc">Productividad </li>
 <li type="disc">Fácil mantenimiento </li>
 
 Este último es uno de los grandes problemas, pues puede llegar a suponer un importe superior al 60% del total del coste del software.
@@ -138,8 +133,7 @@ La ingeniería de software se crea debido a las siguientes características:
 
 <li type="disc">El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere. </li>
 
-<li type="disc">El producto de software debe ser eficiente en el uso de los recursos del
-sistema. </li>
+<li type="disc">El producto de software debe ser eficiente en el uso de los recursos del sistema. </li>
 
 <li type="disc">Se requiere desarrollar el software en una manera que lo haga evolutivo, de forma tal que se pueda agregar funcionalidad adicional sin efectos perjudiciales. </li>
 
@@ -201,7 +195,7 @@ Por ejemplo, dados los siguientes valores de un paquete de base de datos en dos 
 
 <strong>Solución:</strong><br>
 &rarr; Integridad para el proyecto 1:<br>
-Integridad = 1 – 0.7 * (1 – 0) = 0.3
+Integridad = 1 – 0.7 * (1 – 0) = 0.3<br>
 &rarr; Integridad para el proyecto 2:<br>
 Integridad = 1 – 0.2 * (1 - 0.8) = 0.96
 
