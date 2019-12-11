@@ -75,25 +75,25 @@ Su origen se debió a que el entorno de desarrollo de sistemas software adolecí
 Esto es lo que se ha denominado habitualmente "crisis del software", que históricamente se generó en los siguientes pasos:
 
 <li type="square"><strong>Primera Fase. Los albores (1945-1955)</strong> </li>
-&rarr;Programar no es una tarea diferenciada del diseño de una máquina.
+&rarr;Programar no es una tarea diferenciada del diseño de una máquina.<br>
 &rarr;Uso de lenguaje máquina y ensamblador.
 
 <li type="square"><strong>Segunda Fase. El florecimiento (1955-1965)</strong> </li>
-&rarr;Aparecen multitud de lenguajes.
+&rarr;Aparecen multitud de lenguajes.<br>
 &rarr;Se pensaba que era posible hacer casi todo.
 
 <li type="square"><strong>Tercera Fase. La crisis (1965-1970)</strong> </li>
-&rarr;Desarrollo inacabable de grandes programas. Ineficiencia, errores, costes impredecible
+&rarr;Desarrollo inacabable de grandes programas. Ineficiencia, errores, costes impredecible.<br>
 &rarr;Nada es posible.
 
 <li type="square"><strong>Cuarta Fase. Innovación conceptual (1970-1980)</strong> </li>
-&rarr;Fundamentos de programación
-&rarr;Verificación de programas
+&rarr;Fundamentos de programación.<br>
+&rarr;Verificación de programas.<br>
 &rarr;Metodologías de diseño.
 
 <li type="square"><strong>Quinta Fase. El diseño es el problema (1980-?)</strong> </li>
-&rarr;Entornos de programación
-&rarr;Especificación formal
+&rarr;Entornos de programación.<br>
+&rarr;Especificación formal.<br>
 &rarr;Programación automática.
 
 ### La evolución del software
