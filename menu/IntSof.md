@@ -3,12 +3,15 @@ layout: page
 title: Introducción Ingeniería en Software
 ---
 
-En este apartado se colocara todo el material recibido durante las clases de Introducción a la Ingenieria en Software.
+En este apartado se colocara todo el material recibido durante las clases de Introducción a la Ingenieria en Software (IS) durante el Primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
-<!--<De aquí para abajo estarian lo que se veria en cada clase segun el plan de clase y en funcion de las diapositivas dadas por el profe??>-->
+## Dia 1 (21/10/2019)
 
-## Clase 1 (Titulo de nivel 2)
-Pos no hicimos nada realmente, bno en realidad no recuerdo xd.
+### Definición de IS
+###### Fritza Bauer, 1969:
+Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
+
+<strong> Fritza Bauer, 1969: <strong>
 
 ## Clase 2 (Titulo de nivel 2)
 Creo que este dia no hubo clases xd.
