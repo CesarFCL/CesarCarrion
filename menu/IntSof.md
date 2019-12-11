@@ -10,6 +10,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 #### Definición de IS
 <strong> Fritza Bauer, 1969: </strong>Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
 La Ingeniería del Software es el establecimiento y uso de principios robustos de la ingeniería a fin de obtener económicamente software que sea fiable y que funcione eficientemente sobre maquinas reales.
+
 <strong> Bohem, 1976: </strong>Ingeniería del Software es la aplicación practica del conocimiento científico en el diseño y construcción de programas de computadora y la documentación necesaria requerida para desarrollar, operar (funcionar) y mantenerlos.
 
 <strong> Mills, 1980: </strong>La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que se demuestren correctos, producidos en el plazo y costo adecuado.
