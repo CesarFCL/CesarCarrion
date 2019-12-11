@@ -230,6 +230,4 @@ Con los datos registrados durante la elaboración del proyecto podemos generar a
 
 <li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
 
-Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad.
-
-Los puntos de función se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
+Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
