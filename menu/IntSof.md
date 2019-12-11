@@ -217,7 +217,7 @@ Si por otra parte, la probabilidad de amenaza fuera 0.5 y la posibilidad de repe
 
 <li value="5"><strong>Métricas orientadas al tamaño:</strong> Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.</li>
 
-Si una organización de software mantiene registros sencillos, se puede crear una tabla de datos orientados al tamaño, como la que muestra la figura, que lista cada proyecto de desarrollo de software y las medidas correspondientes de cada proyecto
+Si una organización de software mantiene registros sencillos, se puede crear una tabla de datos orientados al tamaño, como la que muestra la figura, que lista cada proyecto de desarrollo de software y las medidas correspondientes de cada proyecto.
 
 ![alt text](https://user-images.githubusercontent.com/57689841/70585860-285fea00-1b8b-11ea-9120-a69ba53c411e.PNG "Figura1")
 
