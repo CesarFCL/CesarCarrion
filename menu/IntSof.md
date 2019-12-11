@@ -5,7 +5,7 @@ title: Introducción de la Ingeniería de Software
 
 En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
-<center><strong><big><big><big>Unidad 1</big> </big> </big> </strong> </center>
+<center><p style="color:#000000";><strong><big><big><big>Unidad 1</p> </big> </big> </big> </strong> </center>
 
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
@@ -161,7 +161,7 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 
 <li type="disc"><strong>Líneas de productos software,</strong> en lugar de productos individuales.</li>
 
-## Procesos de Ingeniería de Software
+## 1.2 Procesos de Ingeniería de Software
 
 ### Factores de calidad del software
 
