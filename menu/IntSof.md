@@ -136,8 +136,7 @@ La ingeniería de software se crea debido a las siguientes características:
 
 <li type="disc">El producto debe ser robusto. Esto quiere decir que el software se comporta de manera razonable, incluso en circunstancias no anticipadas desde el principio. </li>
 
-<li type="disc">El producto de software debe ser lo más reutilizable posible, de manera tal
-que pueda ser incorporado en otro producto de software si se requiere. </li>
+<li type="disc">El producto de software debe ser lo más reutilizable posible, de manera tal que pueda ser incorporado en otro producto de software si se requiere. </li>
 
 <li type="disc">El producto de software debe ser eficiente en el uso de los recursos del
 sistema. </li>
@@ -160,9 +159,77 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 
 <li type="disc"><strong>Desarrollo dirigido por modelos:</strong> primero se desarrollan modelos textuales gráficos del software a construir, y posteriormente se construye el software.</li>
 
-<li type="disc"><strong>Líneas de productos software,</strong> en lugar de productos
-individuales.</li>
+<li type="disc"><strong>Líneas de productos software,</strong> en lugar de productos individuales.</li>
 
-## Unidad 2: Fundamentos de la Ingeniría de Software(IS)
+## Procesos de Ingeniería de Software
 
+### Factores de calidad del software
 
+<li type="disc"><strong>Concepto de Calidad:</strong> Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).</li>
+
+<li type="disc"><strong>Calidad del Software:</strong> Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.</li>
+
+Los factores que determinan la calidad del software se puede clasificar en dos grandes grupos (Pressman):
+
+<li type="disc"><strong>Medidas Directas:</strong> La medida o medición decimos que es directa, cuando disponemos de un instrumento de medida que nos muestra un resultado (generalmente numérico).</li>
+
+<li type="disc"><strong>Medidas Indirectas:</strong> Cuando hablamos de sistemas informáticos no siempre es posible realizar una medida directa, porque no disponemos del instrumento adecuado que nos permita realizar esa medición.</li>
+
+### Métricas del Software
+
+Son las que están relacionadas con el desarrollo del software como funcionalidad, complejidad, eficiencia.
+
+Entre las métricas del software tenemos las siguientes:
+
+<li value="1"><strong>Métricas técnicas:</strong> Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.</li>
+
+<li value="2"><strong>Métricas de calidad:</strong> Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud, integridad, facilidad de uso, estructuración o modularidad, pruebas, facilidad de mantenimiento, reusabilidad, cohesión del módulo, acoplamiento del módulo, etc.</li>
+
+Estas son los puntos críticos en el diseño, codificación, pruebas y mantenimiento.
+
+Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente.
+
+<li type="disc"><strong>Corrección:</strong> es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.</li>
+
+<li type="disc"><strong>Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).</li>
+
+<li type="disc"><strong>Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).</li>
+
+Por ejemplo, dados los siguientes valores de un paquete de base de datos en dos proyectos, podemos calcular la integridad.
+
+![alt text](https://user-images.githubusercontent.com/57689841/70585368-aae7aa00-1b89-11ea-9203-bd22ae9f19ba.PNG "Paquete de Base de Datos")
+
+<strong>Solución:</strong><br>
+&rarr; Integridad para el proyecto 1:<br>
+Integridad = 1 – 0.7 * (1 – 0) = 0.3
+&rarr; Integridad para el proyecto 2:<br>
+Integridad = 1 – 0.2 * (1 - 0.8) = 0.96
+
+Si la amenaza (probabilidad de que un ataque ocurrirá) es 0.25, y la seguridad (posibilidad de repeler un ataque) es 0.95, la integridad del sistema es 0.99 (muy elevada).
+
+Si por otra parte, la probabilidad de amenaza fuera 0.5 y la posibilidad de repeler un ataque es solo 0.25, la integridad del sistema es 0.63 (inaceptablemente baja).
+
+<li type="disc"><strong>Facilidad de uso:</strong> Es el intento por cuantificar la sencillez de una aplicación al utilizarla.</li>
+
+<li value="3"><strong>Métricas de calidad:</strong> Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</li>
+
+<li value="4"><strong>Métricas de costo:</strong> se centra en el costo total del sistema informático.</li>
+
+<li value="5"><strong>Métricas orientadas al tamaño:</strong> Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.</li>
+
+Si una organización de software mantiene registros sencillos, se puede crear una tabla de datos orientados al tamaño, como la que muestra la figura, que lista cada proyecto de desarrollo de software y las medidas correspondientes de cada proyecto
+
+![alt text](https://user-images.githubusercontent.com/57689841/70585860-285fea00-1b8b-11ea-9120-a69ba53c411e.PNG "Figura1")
+
+Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:
+
+&rarr; Produc7vidad = KLDC /Esfuerzo<br>
+&rarr; Calidad = Errores / LDC<br>
+&rarr; Documentación = Pp.doc./LDC<br>
+&rarr; Costo = $(000)/LDC<br>
+
+<li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
+
+Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad.
+
+Los puntos de función se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li>
