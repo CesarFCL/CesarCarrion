@@ -187,7 +187,7 @@ Entre las métricas del software tenemos las siguientes:
 
 Estas son los puntos críticos en el diseño, codificación, pruebas y mantenimiento.
 
-Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente.
+Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente.</ol>
 
 <li type="disc"><strong>Corrección:</strong> es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.</li>
 
@@ -211,7 +211,7 @@ Si por otra parte, la probabilidad de amenaza fuera 0.5 y la posibilidad de repe
 
 <li type="disc"><strong>Facilidad de uso:</strong> Es el intento por cuantificar la sencillez de una aplicación al utilizarla.</li>
 
-<li value="3"><strong>Métricas de calidad:</strong> Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</li>
+<ol><li value="3"><strong>Métricas de calidad:</strong> Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</li>
 
 <li value="4"><strong>Métricas de costo:</strong> se centra en el costo total del sistema informático.</li>
 
@@ -221,13 +221,13 @@ Si una organización de software mantiene registros sencillos, se puede crear un
 
 ![alt text](https://user-images.githubusercontent.com/57689841/70585860-285fea00-1b8b-11ea-9120-a69ba53c411e.PNG "Figura1")
 
-Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:
+Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:<br> </ol>
 
-&rarr; Produc7vidad = KLDC /Esfuerzo<br>
+&rarr; Productividad = KLDC /Esfuerzo<br>
 &rarr; Calidad = Errores / LDC<br>
 &rarr; Documentación = Pp.doc./LDC<br>
 &rarr; Costo = $(000)/LDC<br>
 
-<li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
+<ol><li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
 
 Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
