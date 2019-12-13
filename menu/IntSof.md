@@ -10,18 +10,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
 ### Definición de IS
-<strong> Fritza Bauer, 1969: </strong>Más que una disciplina o una parte del conocimiento, la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
-La Ingeniería del Software es el establecimiento y uso de principios robustos de la ingeniería a fin de obtener económicamente software que sea fiable y que funcione eficientemente sobre maquinas reales.
-
-<strong> Bohem, 1976: </strong>Ingeniería del Software es la aplicación practica del conocimiento científico en el diseño y construcción de programas de computadora y la documentación necesaria requerida para desarrollar, operar (funcionar) y mantenerlos.
-
-<strong> Mills, 1980: </strong>La Ingeniería de Software tiene como uno de sus principales objetivos la producción de programas que cumplan las especificaciones, y que se demuestren correctos, producidos en el plazo y costo adecuado.
-
-<strong>Meyer, 1988: </strong>La Ingeniería de Software es la producción de software de calidad.
-
-<strong>IEEE 1993: </strong>La Ingeniería de Software es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software.
-
-<strong>En resumen: </strong>La ingeniería de so-ware es una aplicación práctica del conocimiento cientifico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
+La ingeniería de so-ware es una aplicación práctica del conocimiento cientifico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
 ### Objetivos de la IS
 
@@ -48,7 +37,7 @@ aplicaciones.</li>
 
 ### Origen de la IS
 
-Ingeniería del So-ware, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
+Ingeniería del Software, es el término utilizado por Fritz Bauer en la primera conferencia sobre desarrollo de software patrocinada por el Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en octubre de 1968, previamente había sido utilizado por el holandés Edsger Dijkstra en su obra The Humble Programmer.
 
 Puede definirse según Alan Davis como "la aplicación inteligente de principios probados, técnicas, lenguajes y herramientas para la creación y mantenimiento, dentro de un coste razonable, de software que satisfaga las necesidades de los usuarios".
 
@@ -56,7 +45,7 @@ Su origen se debió a que el entorno de desarrollo de sistemas software adolecí
 
 <li type="disc">Retrasos considerables en la planificación</li>
 
-<li type="disc">Poca produc7vidad</li>
+<li type="disc">Poca productividad</li>
 
 <li type="disc">Retrasos considerables en la planificación</li>
 
@@ -96,11 +85,7 @@ Esto es lo que se ha denominado habitualmente "crisis del software", que histór
 
 El término “evolución” del software se utiliza desde los sesenta para denominar la dinámica de crecimiento del software.
 
-Una definición atribuida a Lehman y Ramil dice que la evolución del software es “todas las actividades de programación que se orientan a generar una nueva versión de un software a partir de una versión anterior operativa.
-
 Ned Chapin (1999) lo definió como “la aplicación de las actividades y procesos de mantenimiento del software que generan una nueva versión operativa de un software con una funcionalidad de usuario o propiedades cambiadas a partir de una versión anterior […] junto con los procesos y actividades de garantia de calidad y con la gestión de esos procesos”. De estas definiciones se desprende que la evolución cubre el ajuste a funcionalidades adicionales.
-
-La guía SWEBOK considera que la causa del mantenimiento está tanto en la necesidad de “cambios” como de “evolución” en el software.
 
 ### La crisis del software
 
