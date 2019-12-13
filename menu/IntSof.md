@@ -10,7 +10,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
 ### Definición de IS
-La ingeniería de so-ware es una aplicación práctica del conocimiento cientifico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
+La ingeniería de software es una aplicación práctica del conocimiento cientifico para proveer metodologías y técnicas que ayuden a desarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las expectativas de calidad y permanezca dentro del presupuesto.
 
 ### Objetivos de la IS
 
@@ -209,4 +209,4 @@ Con los datos registrados durante la elaboración del proyecto podemos generar a
 
 <ol><li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
 
-Son medidas indirectas del so-ware y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
+Son medidas indirectas del software y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
