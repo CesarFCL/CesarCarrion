@@ -245,7 +245,7 @@ Con independencia del área, tamaño o complejidad del proyecto, cualquier proye
 
 <strong>Definición</strong>
 
-¿Qué debe hacer el sistema?
+¿Qué debe hacer el sistema?<br>
 &rarr; Información que ha de manejar el sistema.<br>
 &rarr; Necesidades de rendimiento.<br>
 &rarr; Definición ~ Análisis (del sistema, del sw).<br>
@@ -255,11 +255,11 @@ Con independencia del área, tamaño o complejidad del proyecto, cualquier proye
 
 <strong>Desarrollo</strong>
 
-¿Cómo construir el sistema?
+¿Cómo construir el sistema?<br>
 &rarr; Se diseñan las estructuras de los datos y los programas.<br>
-<p style="text-indent:50">&rarr;Como se caracterizan las interfaces.</p><br>
-<p style="text-indent:50">&rarr;Como realizar el paso del diseño al lenguaje de programación.</p><br>
-<p style="text-indent:50">&rarr;Como ha de realizarse la prueba.</p><br>
+&rarr;Como se caracterizan las interfaces.<br>
+&rarr;Como realizar el paso del diseño al lenguaje de programación.<br>
+&rarr;Como ha de realizarse la prueba.<br>
 &rarr; Se escriben y documentan los programas.<br>
 &rarr; Y se prueba el so-ware construido.<br>
 
@@ -269,8 +269,8 @@ Con independencia del área, tamaño o complejidad del proyecto, cualquier proye
 &rarr; Se centra en el cambio.<br>
 &rarr; El software es sometido a reparaciones y modificaciones cada vez que se detecta un fallo o se necesita cubrir una nueva necesidad de los usuarios.<br>
 &rarr; En esta fase recae el mayor porcentaje del costo de un sistema.<br>
-&rarr; Un buen sistema no es sólo un conjunto de programas que
-funcionan bien => Debe ser fácil de mantener<br>
+&rarr; Un buen sistema no es sólo un conjunto de programas que funcionan bien=>Debe ser fácil de mantener<br>
+
 Tipos de mantenimiento:
 
 <li type="disc"><strong>Correctivo.</strong> El programa no funciona correctamente, hay que modificarlo.</li>
@@ -332,11 +332,51 @@ Un sistema de información es un conjunto de elementos interrelacionados con el 
 
 Un sistema de información realiza cuatro actividades básicas:
 
-&rarr; Entrada de información.<br>
+&rarr; <strong>Entrada de Información</strong><br>
 Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información.<br>
-&rarr; Almacenamiento de información.<br>
+&rarr; <strong>Almacenamiento de información</strong><br>
 El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior.<br>
-&rarr; Procesamiento de infroamción.<br>
+&rarr; <strong>Procesamiento de información</strong><br>
 Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida.<br>
-&rarr; Salida de información.<br>
+&rarr; <strong>Salida de información.</strong><br>
 La salida es la capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior.
+
+Los sistemas de información, de manera general se pueden clasificar de tres formas según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistemas de información en tres tipos fundamentales:
+
+<ol><li value="1"><strong>Sistemas Transaccionales:</strong> Son Sistemas de Información que logran la automatización de procesos operativos dentro de una organización ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, entradas, salidas, etc.</li> </ol>
+
+<ol><li value="2"><strong>Sistemas de Soporte a la Toma de Decisiones:</strong> Son Sistemas de Información que apoyan el proceso de toma de decisiones.</li> </ol>
+
+<ol><li value="3"><strong>Sistemas Estratégicos:</strong> Son sistemas de información desarrollado en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información.</li> </ol>
+
+De acuerdo al elemento principal de proceso de la información, los sistemas de información pueden ser de tres tipos (Manual, Mecanizadas y Bath):
+
+<ol><li value="1"><strong>Manuales:</strong> cuando el hombre auxiliado por cierto equipo (máquinas de escribir, sumadoras, archivos, etc.) realiza las principales funciones de recopilación, registro, almacenamiento, cálculo y generación de información.</li> </ol>
+
+<ol><li value="2"><strong>Mecanizadas:</strong> cuando cierta maquinaria realiza las principales funciones de procesamiento. Para los sistemas mecanizados que hacen uso de un computador, de acuerdo al tipo de interacción Hombre-Máquina, los sistemas de información pueden ser de dos tipos (Batch y en Línea]:</li> </ol>
+
+<li type="disc"><strong>Batch:</strong> el usuario proporciona los datos necesarios para la ejecución de un proceso y espera a que el computador termine la tarea para recibir los resultados.</li>
+
+<li type="disc"><strong>En Línea:</strong> existe un diálogo directo entre el usuario y el computador durante la ejecución de un proceso.</li>
+
+En cuanto a la organización física de los principales recursos de procesamiento de datos, los sistemas de información pueden
+ser de tipo:
+
+<li type="disc"><strong>Procesos centralizados:</strong> los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las misma instalación o desde lugares retirados, mediante líneas de comunicación de datos (telefónicas, microondas, satélite, etc.).</li>
+
+<li type="disc"><strong>Proceso distribuido:</strong> los recursos se encuentran diseminados en diversos lugares de una zona territorial (ciudad, país, continente, etc.), por lo que el procesamiento se realiza en el propio lugar donde se originan los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una “Red de Comunicación”.</li>
+
+Los sistemas de información, según Peña (2006), tienen 5
+elementos importantes, estos son:
+
+&rarr; Financieros.<br>
+&rarr; Administrativos.<br>
+&rarr; Humanos.<br>
+&rarr; Materiales.<br>
+&rarr; Tecnológicos.
+
+Otro autor desconocido (s/a, 2008b) plantea que un sistema de
+información está compuesto por 6 elementos claramente
+identificables, tal y como se muestran en la siguiente figura:
+
+![alt text](https://user-images.githubusercontent.com/57689841/70842547-b5ed4500-1dea-11ea-9122-0716eca80ca6.PNG "Figura2")
