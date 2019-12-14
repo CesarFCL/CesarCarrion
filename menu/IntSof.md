@@ -10,7 +10,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 <strong><a href="#subindice1">1.1 Fundamentos de la Ingeniría de Software</a> </strong> <br> 
 <strong><a href="#subindice2">1.2 Procesos de Ingeniería de Software</a> </strong> <br> 
 <strong><a href="#subindice3">1.3 Sistemas de información</a> </strong> <br> 
-<strong><a href="#indice2">Índice 2</a> </strong>
+<strong><a href="#indice2">2. Unidad 2</a> </strong>
 <a name="indice1"></a>
 <center><font color="black"><strong><big><big><big>Unidad 1 </big> </big> </big> </strong> </font> </center>
 <a name="subindice1"></a>
@@ -390,3 +390,37 @@ información está compuesto por 6 elementos claramente
 identificables, tal y como se muestran en la siguiente figura:
 
 ![alt text](https://user-images.githubusercontent.com/57689841/70842547-b5ed4500-1dea-11ea-9122-0716eca80ca6.PNG "Figura2")
+
+<li type="disc"><strong>Base de Datos:</strong> Es donde se almacena toda la información que
+se requiere para la toma de decisiones. La información se
+organiza en registros específicos e identificables;</li>
+
+<li type="disc"><strong>Transacciones:</strong> Corresponde a todos los elementos de interfaz
+que permiten al usuario: consultar, agregar, modificar o eliminar
+un registro específico de Información;</li>
+
+<li type="disc"><strong>Informes:</strong> Corresponden a todos los elementos de interfaz
+mediante los cuales el usuario puede obtener uno o más
+registros y/o información de tipo estadístico (contar, sumar) de
+acuerdo a criterios de búsqueda y selección definidos.</li>
+
+<li type="disc"><strong>Procesos:</strong> Corresponden a todos aquellos elementos que, de
+acuerdo a una lógica predefinida, obtienen información de la
+base de datos y generan nuevos registros de información. Los
+procesos sólo son controlados por el usuario (de ahi que
+aparezca en línea de puntos);</li>
+
+<li type="disc"><strong>Usuario:</strong> Identifica a todas las personas que interactúan con el
+sistema, esto incluye desde el máximo nivel ejecutivo que
+recibe los informes de estadísticas procesadas, hasta el usuario
+operativo que se encarga de recolectar e ingresar la información
+al sistema y</li>
+
+<li type="disc"><strong>Procedimientos Administrativos:</strong> Corresponde al conjunto de
+reglas y políticas de la organización, que rigen el
+comportamiento de los usuarios frente al sistema.
+Particularmente, debieran asegurar que nunca, bajo ninguna
+circunstancia un usuario tenga acceso directo a la Base de
+Datos.</li>
+
+<center><font color="black"><strong><big><big><big>Unidad 2 </big> </big> </big> </strong> </font> </center>
