@@ -5,8 +5,18 @@ title: Introducción de la Ingeniería de Software
 
 En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
-<center><font color="black"><strong><big><big><big>Unidad 1 </big> </big> </big> </strong> </font> </center>
+<div class=idc-box">
+	<p class="idc-titulo">Contenido</p>
+	<ul class="idc-lista">
+		<li><a href="#indice1">1 Índice 1</a> 
+		<ul>
+			<li><a href="#subindice1">1.1 Subíndice 1</a> </li>
+		</ul>
+	    </li>
+		<li><a href="#indice2">Índice 2</a> </li> </ul> </div> <br>
 
+<center><font color="black"><strong><big><big><big>Unidad 1 </big> </big> </big> </strong> </font> </center>
+<a name="indice1"></a>
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
 ### Definición de IS
