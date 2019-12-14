@@ -372,9 +372,9 @@ De acuerdo al elemento principal de proceso de la información, los sistemas de 
 En cuanto a la organización física de los principales recursos de procesamiento de datos, los sistemas de información pueden
 ser de tipo:
 
-<li type="disc"><strong>Procesos centralizados:</strong> los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las misma instalación o desde lugares retirados, mediante líneas de comunicación de datos (telefónicas, microondas, satélite, etc.).</li>
+<ol><li value="1"><strong>Procesos centralizados:</strong> los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las misma instalación o desde lugares retirados, mediante líneas de comunicación de datos (telefónicas, microondas, satélite, etc.).</li> </ol>
 
-<li type="disc"><strong>Proceso distribuido:</strong> los recursos se encuentran diseminados en diversos lugares de una zona territorial (ciudad, país, continente, etc.), por lo que el procesamiento se realiza en el propio lugar donde se originan los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una “Red de Comunicación”.</li>
+<ol><li value="2"><strong>Proceso distribuido:</strong> los recursos se encuentran diseminados en diversos lugares de una zona territorial (ciudad, país, continente, etc.), por lo que el procesamiento se realiza en el propio lugar donde se originan los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una “Red de Comunicación”.</li> </ol>
 
 Los sistemas de información, según Peña (2006), tienen 5
 elementos importantes, estos son:
@@ -421,6 +421,6 @@ reglas y políticas de la organización, que rigen el
 comportamiento de los usuarios frente al sistema.
 Particularmente, debieran asegurar que nunca, bajo ninguna
 circunstancia un usuario tenga acceso directo a la Base de
-Datos.</li>
+Datos.</li> <br>
 
 <center><font color="black"><strong><big><big><big>Unidad 2 </big> </big> </big> </strong> </font> </center>
