@@ -12,7 +12,9 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 <strong><a href="#subindice3">1.3 Sistemas de información</a> </strong> <br> 
 <strong><a href="#indice2">2. Unidad 2</a> </strong>
 <a name="indice1"></a>
-<center><font color="black"><strong><big><big><big>Unidad 1 </big> </big> </big> </strong> </font> </center>
+
+<center><font color="black"><strong><big><big><big>Unidad 1:</big> </big> </big> </strong> </font> </center>
+<center><font color="black"><strong><big><big><big>Introducción de la Ingenieria de Sofware</big> </big> </big> </strong> </font> </center>
 <a name="subindice1"></a>
 
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
@@ -351,6 +353,8 @@ Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo c
 &rarr; <strong>Salida de información.</strong><br>
 La salida es la capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior.
 
+### Tipos de sistemas de información
+
 Los sistemas de información, de manera general se pueden clasificar de tres formas según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistemas de información en tres tipos fundamentales:
 
 <ol><li value="1"><strong>Sistemas Transaccionales:</strong> Son Sistemas de Información que logran la automatización de procesos operativos dentro de una organización ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, entradas, salidas, etc.</li> </ol>
@@ -375,6 +379,8 @@ ser de tipo:
 <ol><li value="1"><strong>Procesos centralizados:</strong> los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las misma instalación o desde lugares retirados, mediante líneas de comunicación de datos (telefónicas, microondas, satélite, etc.).</li> </ol>
 
 <ol><li value="2"><strong>Proceso distribuido:</strong> los recursos se encuentran diseminados en diversos lugares de una zona territorial (ciudad, país, continente, etc.), por lo que el procesamiento se realiza en el propio lugar donde se originan los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una “Red de Comunicación”.</li> </ol>
+
+### Elementos de un sistema de información
 
 Los sistemas de información, según Peña (2006), tienen 5
 elementos importantes, estos son:
@@ -423,4 +429,78 @@ Particularmente, debieran asegurar que nunca, bajo ninguna
 circunstancia un usuario tenga acceso directo a la Base de
 Datos.</li> <br>
 
-<center><font color="black"><strong><big><big><big>Unidad 2 </big> </big> </big> </strong> </font> </center>
+<center><font color="black"><strong><big><big><big>Unidad 2:</big> </big> </big> </strong> </font> </center>
+<center><font color="black"><strong><big><big><big>Modelo de proceso del Software </big> </big> </big> </strong> </font> </center>
+
+## 2.1 Proceso del Software
+
+### El proceso de SW
+
+Es el conjunto de actividades necesarias para transformar las ideas
+iniciales del usuario, que desea automatizar un determinado
+trabajo, en software.
+
+Muchos de los procesos de software son diferentes, pero todos
+implican:
+
+<li type="disc">Especificación.</li>
+<li type="disc">Diseño e implementación.</li>
+<li type="disc">Validación.</li>
+<li type="disc">Evolución.</li>
+
+### Características del proceso de SW
+
+Cualquier proceso tiene las siguientes características:
+
+<li type="disc">El proceso establece todas las actividades principales.</li>
+<li type="disc">El proceso utiliza recursos, está sujeto a una serie de restricciones
+y genera productos intermedios y finales.</li>
+<li type="disc">El proceso puede estar compuesto de subprocesos que se
+encadenan de alguna manera Puede definirse como una
+jerarquía de procesos organizada de modo que cada subproceso
+tenga su propio modelo de proceso.</li>
+<li type="disc">Cada actividad del proceso tiene criterios de entrada y de salida,
+de modo que se conoce cuándo comienza y cuándo termina una
+actividad.</li>
+<li type="disc">Las actividades se organizan en secuencia de modo que resulta
+claro cuando una actividad se realiza en orden relativo a otras
+actividades.</li>
+<li type="disc">Todo proceso tiene un conjunto de principios orientadores que
+explican las metas de cada actividad.</li>
+<li type="disc">Las restricciones o controles pueden aplicarse a una actividad,
+recurso o producto.</li>
+
+### Otras características del proceso de SW
+
+<li type="disc"><strong>Comprensión:</strong> Está definido y es comprensible.</li>
+<li type="disc"><strong>Visibilidad:</strong> Se visualizan los progresos externamente.</li>
+<li type="disc"><strong>Soporte:</strong> Está soportado por herramientas CASE.</li>
+<li type="disc"><strong>Aceptación:</strong> Es aceptable para todos los actores implicados.</li>
+<li type="disc"><strong>Confianza:</strong> Los errores del proceso se detectan antes de que se produzcan
+errores en el producto.</li>
+<li type="disc"><strong>Robustez:</strong> Se puede continuar a pesar de problemas inesperados.</li>
+<li type="disc"><strong>Capacidad de mantenimiento:</strong> Puede ajustarse a las necesidades de cambio de la organización.</li>
+<li type="disc"><strong>Rapidez:</strong> Con qué "velocidad" se producen los sistemas.</li>
+<li type="disc"><strong>Adaptación:</strong> Capacidad que tiene un usuario del mismo de adaptarlo a sus
+necesidades.</li>
+
+### Importancia del proceso de SW
+
+Un proceso software debe especificar:
+
+<li type="disc">La secuencia de actividades a realizar por el equipo de desarrollo.</li>
+&rarr; Flujo de actividades.<br>
+<li type="disc">Los productos que deben crearse.</li>
+&rarr; Resultados del trabajo ( documentos, datos informes.<br>
+&rarr; Qué y cuándo.<br>
+<li type="disc">La asignación de tareas a cada miembro del equipo y al equipo
+como un todo.</li>
+
+### Estándares relacionados con el proceso de SW: Estándar ISO/IEC/IEEE 12207:2017
+
+<li type="disc">El estándar ISO/IEC/IEEE 12207 2017 [ISO/IEC/ 2017 relativo
+a los procesos del ciclo de vida del software</li>
+<li type="disc">Se aplica a la adquisición de sistemas de software , productos y servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.</li>
+<li type="disc">Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software.</li>
+<li type="disc">Las restricciones o controles pueden aplicarse a una actividad,
+recurso o producto.</li>
