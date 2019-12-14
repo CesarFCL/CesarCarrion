@@ -5,16 +5,16 @@ title: Introducción de la Ingeniería de Software
 
 En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
-
-<ol><li value="1"><strong>Métricas de calidad:</strong> Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</li> </ol>
-<a href="#indice1">1. Unidad 1</a> <br>
-<a href="#subindice1">1.1 Fundamentos de la Ingeniría de Software</a> <br>
-<a href="#subindice2">1.2 Procesos de Ingeniería de Software</a> <br>
-<a href="#subindice3">1.3 Sistemas de información</a> <br>
-<a href="#indice2">Índice 2</a>
+<strong><big>Índice:</big> </strong> <br>
+<strong><a href="#indice1">1. Unidad 1</a> </strong> <br>
+<strong><a href="#subindice1">1.1 Fundamentos de la Ingeniría de Software</a> </strong> <br> 
+<strong><a href="#subindice2">1.2 Procesos de Ingeniería de Software</a> </strong> <br> 
+<strong><a href="#subindice3">1.3 Sistemas de información</a> </strong> <br> 
+<strong><a href="#indice2">Índice 2</a> </strong>
 <a name="indice1"></a>
 <center><font color="black"><strong><big><big><big>Unidad 1 </big> </big> </big> </strong> </font> </center>
 <a name="subindice1"></a>
+
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
 ### Definición de IS
