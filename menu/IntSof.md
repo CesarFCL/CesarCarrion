@@ -207,6 +207,136 @@ Con los datos registrados durante la elaboración del proyecto podemos generar a
 &rarr; Documentación = Pp.doc./LDC<br>
 &rarr; Costo = $(000)/LDC<br>
 
-<ol><li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>:
+<ol><li value="6"><strong>Métricas orientadas a la función o puntos de función</strong>: Son medidas indirectas del software y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
 
-Son medidas indirectas del software y del proceso por el cual se desarrolla. En lugar de calcular las líneas de código (LDC), las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad. Estos se obtienen utilizando una función empírica basado en medidas cuantitativas del dominio de información del software y valoraciones subjetivas de la complejidad del software.</li> </ol>
+### Problemas en el desarrollo de software
+<strong>¿Qué es un proyecto software?</strong>
+Haciendo uso de la definición de proyecto de la guía del PMBOK, y adaptándola a un proyecto software, podríamos definirlo como: “Un proyecto software es un esfuerzo temporal que se lleva a cabo para crear un producto software, servicio TI o resultado único.”
+
+<strong>¿Pero que es el software?</strong>
+Según la definición del IEEE, "software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo", y "un producto de software es un producto diseñado para un usuario".
+
+El software puede dividirse en dos grandes categorías:
+
+<ol><li value="1"><strong>Software de aplicaciones:</strong> se usan para proveer servicios a clientes y ejecutar negocios de forma más eficiente. El software de aplicaciones puede ser un sistema pequeño o uno grande integrado. Como ejemplos de este tipo de software estarían un sistema de cuentas, un sistema de planificación de recursos...</li> </ol>
+
+<ol><li value="2"><strong>Software de sistemas:</strong> El software de sistemas se usa para operar y mantener un sistema informático. Permite a los usuarios usar los recursos del ordenador directamente y a través de otro software. Algunos ejemplos de este tipo de software son los sistemas operativos, compiladores y otras utilidades del sistema.</li> </ol>
+
+### Ingeniería del software
+Los proyectos software tienen características específicas que los hacen diferentes de otros proyectos de ingeniería.
+
+La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.
+
+¿Por qué el software es diferente a cualquier otro proceso de fabricación? Podríamos identificar los siguientes motivos:
+
+<li type="disc">El software se desarrolla, no se fabrica en el setido clásico de la palabra. Ambas actividades se dirigen a la construcción de un "producto", pero los métodos son diferentes. Los costes del software se encuentran en la ingeniería, esto implica que los proyectos no se pueden gestionar como si lo fueran de fabricación. </li>
+
+<li type="disc">La juventud de la ingeniería del software con respecto a otras ingenierías, la mayoría del software se construye a medida, en vez de ensamblar componentes previamente creados. Aunque ya se están dando importantes pasos en esta dirección, que facilitaría en gran medida el desarrollo de aplicaciones informáticas. </li>
+
+<li type="disc">En el software, el recurso principal son las personas. No es siempre posible acelerar la construcción de software añadiendo personas porque la construcción de software requiere un esfuerzo en equipo. El equipo tiene que trabajar de forma coordinada y comparrir un objetivo de proyecto común. Se necesita comunicación efectiva dentro del equipo. </li>
+
+<li type="disc">El software no se estropea, pero se deteriora. Durante su vida, el software sufre cambios (mantenimiento). Conforme se hacen los cambios, es bastante probable que se introduzcan nuevos defectos, lo que hace que el software se vaya deteriorando debido a estos cambios. </li>
+
+### Visión general del proceso de ingeniería del software
+Con independencia del área, tamaño o complejidad del proyecto, cualquier proyecto se encontrará al menos en una de las siguientes fases:<br>
+&rarr; Definición ~ Análisis (del sistema, del sw).<br>
+&rarr; Desarrollo ~ Diseño, codificación, prueba.<br>
+&rarr; Mantenimiento.
+
+<strong>Definición</strong>
+
+¿Qué debe hacer el sistema?
+&rarr; Información que ha de manejar el sistema.<br>
+&rarr; Necesidades de rendimiento.<br>
+&rarr; Definición ~ Análisis (del sistema, del sw).<br>
+&rarr; Restricciones de diseño.<br>
+&rarr; Interfaces del sistema con los usuarios y con otros sistemas.<br>
+&rarr; Criterios de validación.
+
+<strong>Desarrollo</strong>
+
+¿Cómo construir el sistema?
+&rarr; Se diseñan las estructuras de los datos y los programas.<br>
+<p style="text-indent:50">&rarr;Como se caracterizan las interfaces.</p><br>
+<p style="text-indent:50">&rarr;Como realizar el paso del diseño al lenguaje de programación.</p><br>
+<p style="text-indent:50">&rarr;Como ha de realizarse la prueba.</p><br>
+&rarr; Se escriben y documentan los programas.<br>
+&rarr; Y se prueba el so-ware construido.<br>
+
+<strong>Mantenimiento</strong><br>
+
+&rarr; Comienza una vez construido el sistema.<br>
+&rarr; Se centra en el cambio.<br>
+&rarr; El software es sometido a reparaciones y modificaciones cada vez que se detecta un fallo o se necesita cubrir una nueva necesidad de los usuarios.<br>
+&rarr; En esta fase recae el mayor porcentaje del costo de un sistema.<br>
+&rarr; Un buen sistema no es sólo un conjunto de programas que
+funcionan bien => Debe ser fácil de mantener<br>
+Tipos de mantenimiento:
+
+<li type="disc"><strong>Correctivo.</strong> El programa no funciona correctamente, hay que modificarlo.</li>
+
+<li type="disc"><strong>Perfectivo.</strong> Se modifica el programa para obtener más eficiencia o nuevas funcionalidades no especificadas en la definición del sistema.</li>
+
+<li type="disc"><strong>Adaptativo.</strong> Adaptar el programa a los cambios en su entorno (cambio de SO, de CPU, de legislación, …)</li>
+
+<li type="disc"><strong>Preventivo.</strong> El software se deteriora con los cambios, este mantenimiento hace cambios para que los programas se puedan corregir, adaptar y mejorar más rápidamente -> Reingeniería del SW.</li>
+
+![alt text](https://user-images.githubusercontent.com/57689841/70839102-d6a8a100-1dd0-11ea-9f84-8fae655a4522.PNG "Figura2")
+
+### Responsabilidad ética y profesional en ingeniería del software
+La IS se realiza dentro de un marco social y legal que limita la libertad de la gente que trabaja en dicha área.
+Los ingenieros de software:
+
+<li type="disc"> Deben aceptar que su labor implica responsabilidades mayores que la simple aplicación de habilidades técnicas.</li>
+
+<li type="disc"> Deben comportarse de forma éDca y moralmente responsable para ser respetado como un ingeniero profesional.</li>
+
+Existen áreas donde los estándares de comportamiento aceptable no están acotados por las leyes, sino por la responsabilidad profesional, algunas de estas son:
+
+<li type="disc"><strong>Confidencialidad.</strong> Respetar la confidencialidad de sus empleadores o clientes, independientemente de que se haya firmado un acuerdo formal de confidencialidad.</li>
+
+<li type="disc"><strong>Competencia.</strong> No debe falsificar su nivel de competencia, ni aceptar conscientemente trabajos que están fuera de su capacidad.</li>
+
+<li type="disc"><strong>Derechos de propiedad intelectual.</strong> Debe ser consciente de las leyes locales que gobiernan el uso de la propiedad intelectual, como las patentes el el copyright. Debe asegurarse de que la propiedad intelectual de los empleadores y clientes está protegida.</li>
+
+<li type="disc"><strong>Uso inapropiado de las computadoras.</strong> No debe emplear sus habilidades técnicas para utilizar de forma inapropiada las computadoras de otras personas. Desde los relativamente triviales (utilizar juegos en las maquina de un empleado, por ejemplo) hasta los extremadamente serios (difusión de virus).</li>
+
+### Código de éDca (ACM/IEEE)
+
+Los ingenieros de software deberán comprometerse consigo mismo en convertir el análisis, especificación, diseño, desarrollo, prueba y mantenimiento de software en una profesión respetable y beneficiosa. 
+
+De acuerdo con su compromiso con la salud, seguridad y bienestar del público, los ingenieros de so-ware deberán apegarse a ocho principios.
+
+<li type="disc"><strong>Público.</strong> Los ingenieros de software deberán actuar consistentemente con el interés público.</li>
+
+<li type="disc"><strong>Cliente y Empleador.</strong> Los ingenieros de so-ware deberán actuar de una forma determinada que esté en los mejores intereses de su cliente y empleador consistente con el interés público.</li>
+
+<li type="disc"><strong>Producto.</strong> Los ingenieros de so-ware deberán asegurar que sus productos y modificaciones relacionadas logren el más alto estándar profesional posible.</li>
+
+<li type="disc"><strong>Juicio.</strong> Los ingenieros de software deberán mantener integridad e independencia al emitir su juicio profesional.</li>
+
+<li type="disc"><strong>Gerencia.</strong> Los gerentes y lideres de ingeniería de software deberán suscribirse y promocionar un enfoque ético para la gerencia de desarrollo y mantenimiento del software.</li>
+
+<li type="disc"><strong>Profesión.</strong> Los ingenieros de software deberán fomentar la integridad y reputación de la profesión consistente con el interés público.</li>
+
+<li type="disc"><strong>Colegas.</strong> Los ingenieros de software deberán ser justos y
+comprensivos con sus colegas.</li>
+
+<li type="disc"><strong>Interés Propio.</strong> Los ingenieros de software deberán participar en el aprendizaje de por vida del ejercicio de su profesión y deberán promover un enfoque ético para el ejercicio de la misma.</li>
+
+## 1.3 Sistemas de información
+
+### Concepto
+
+Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones (Peña, 2006).
+
+Un sistema de información realiza cuatro actividades básicas:
+
+&rarr; Entrada de información.<br>
+Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información.<br>
+&rarr; Almacenamiento de información.<br>
+El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior.<br>
+&rarr; Procesamiento de infroamción.<br>
+Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida.<br>
+&rarr; Salida de información.<br>
+La salida es la capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior.
