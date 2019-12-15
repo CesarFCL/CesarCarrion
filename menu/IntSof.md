@@ -282,7 +282,7 @@ Con independencia del área, tamaño o complejidad del proyecto, cualquier proye
 &rarr;Como realizar el paso del diseño al lenguaje de programación.<br>
 &rarr;Como ha de realizarse la prueba.<br>
 &rarr; Se escriben y documentan los programas.<br>
-&rarr; Y se prueba el so-ware construido.<br>
+&rarr; Y se prueba el software construido.<br>
 
 <strong>Mantenimiento</strong><br>
 
@@ -326,13 +326,13 @@ Existen áreas donde los estándares de comportamiento aceptable no están acota
 
 Los ingenieros de software deberán comprometerse consigo mismo en convertir el análisis, especificación, diseño, desarrollo, prueba y mantenimiento de software en una profesión respetable y beneficiosa. 
 
-De acuerdo con su compromiso con la salud, seguridad y bienestar del público, los ingenieros de so-ware deberán apegarse a ocho principios.
+De acuerdo con su compromiso con la salud, seguridad y bienestar del público, los ingenieros de software deberán apegarse a ocho principios.
 
 <li type="disc"><strong>Público.</strong> Los ingenieros de software deberán actuar consistentemente con el interés público.</li>
 
-<li type="disc"><strong>Cliente y Empleador.</strong> Los ingenieros de so-ware deberán actuar de una forma determinada que esté en los mejores intereses de su cliente y empleador consistente con el interés público.</li>
+<li type="disc"><strong>Cliente y Empleador.</strong> Los ingenieros de software deberán actuar de una forma determinada que esté en los mejores intereses de su cliente y empleador consistente con el interés público.</li>
 
-<li type="disc"><strong>Producto.</strong> Los ingenieros de so-ware deberán asegurar que sus productos y modificaciones relacionadas logren el más alto estándar profesional posible.</li>
+<li type="disc"><strong>Producto.</strong> Los ingenieros de software deberán asegurar que sus productos y modificaciones relacionadas logren el más alto estándar profesional posible.</li>
 
 <li type="disc"><strong>Juicio.</strong> Los ingenieros de software deberán mantener integridad e independencia al emitir su juicio profesional.</li>
 
