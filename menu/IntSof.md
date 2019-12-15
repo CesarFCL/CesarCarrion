@@ -3,6 +3,11 @@ layout: page
 title: Introducción de la Ingeniería de Software
 ---
 
+<img src="https://user-images.githubusercontent.com/57689841/70858402-5153e800-1ec7-11ea-922d-27b118135a38.jpg"
+     alt="Chip fondo azul"
+     width="1024"
+     height="321">
+
 En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
 
 <font color="black"><strong><big>Índice:</big> </strong> </font>
