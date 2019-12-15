@@ -10,7 +10,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 <strong><a href="#subindice1.1">1.1 Fundamentos de la Ingeniría de Software</a> </strong> <br> 
 <strong><a href="#subindice1.2">1.2 Procesos de Ingeniería de Software</a> </strong> <br> 
 <strong><a href="#subindice1.3">1.3 Sistemas de información</a> </strong> <br> 
-<strong><a href="#indice2">2. Unidad 2</a> </strong>
+<strong><a href="#indice2">2. Unidad 2</a> </strong> <br>
 <strong><a href="#subindice2.1">2.1 Proceso del Software</a> </strong> <br>
 <strong><a href="#subindice2.2">2.2 El ciclo de vida del Software</a> </strong> <br>
 <strong><a href="#subindice2.3">2.3 Modelo de procesos de software</a> </strong> <br>
