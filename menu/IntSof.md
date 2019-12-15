@@ -876,6 +876,6 @@ Luca.</strong></li>
 
 <center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view" target="_blank">Plan Analítico</a> </big> </big> </strong> </font> </center> 
 
-<center><font color="black"><strong><big><big><a href="https://ugye.sharepoint.com/:p:/r/sites/introsoftma-1-1cicloii2019-2020/_layouts/15/Doc.aspx?sourcedoc=%7BA263EE37-024C-4997-B94B-A4F369A3A76D%7D&file=SOF-S-MA-1-PRESENTACION.pptx&action=edit&mobileredirect=true" target="_blank">Presentación</a> </big> </big> </strong> </font> </center>
+<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/19UndSICfW12TpIbOqcZirjmQjavTC3Zj/view?usp=sharing" target="_blank">Presentación</a> </big> </big> </strong> </font> </center>
 
 <hr>
