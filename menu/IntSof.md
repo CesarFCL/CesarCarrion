@@ -395,7 +395,7 @@ Otro autor desconocido (s/a, 2008b) plantea que un sistema de
 información está compuesto por 6 elementos claramente
 identificables, tal y como se muestran en la siguiente figura:
 
-![alt text](https://user-images.githubusercontent.com/57689841/70842547-b5ed4500-1dea-11ea-9122-0716eca80ca6.PNG "Figura2")
+![alt text](https://user-images.githubusercontent.com/57689841/70842547-b5ed4500-1dea-11ea-9122-0716eca80ca6.PNG "Figura3")
 
 <li type="disc"><strong>Base de Datos:</strong> Es donde se almacena toda la información que
 se requiere para la toma de decisiones. La información se
@@ -502,5 +502,120 @@ como un todo.</li>
 a los procesos del ciclo de vida del software</li>
 <li type="disc">Se aplica a la adquisición de sistemas de software , productos y servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.</li>
 <li type="disc">Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software.</li>
-<li type="disc">Las restricciones o controles pueden aplicarse a una actividad,
-recurso o producto.</li>
+<li type="disc">También proporciona procesos que pueden emplearse para
+definir, controlar y mejorar los procesos del ciclo de vida del
+software dentro de una organización o de un proyecto.</li>
+
+<li type="disc">Esta norma no fomenta o especifica ningún modelo concreto de ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades.</li>
+
+## 2.2 El ciclo de vida del Software
+
+![alt text](https://user-images.githubusercontent.com/57689841/70856047-7a11b880-1e9a-11ea-8a42-7316d0f172f3.PNG "Figura4")
+
+Cuando un proceso implica la construcción de algún producto, suele referirse al proceso como un ciclo de vida
+
+<li type="square">El proceso de desarrollo de software suele denominarse ciclo de vida del software.</li>
+
+La evolución del software representa el ciclo de actividades involucradas en el desarrollo, uso y mantenimiento de sistemas software [Scacchi, 1987].
+
+Los proyectos software se desarrollan en una serie de fases
+
+<li type="square">Van desde la concepción del software y su desarrollo inicial hasta su puesta en funcionamiento y posterior retirada por otra nueva generación de software.</li>
+
+Estas fases pueden ser:
+
+<ol><li value="1"><strong>Temporales:</strong></li> </ol>
+&rarr; Forman una secuencia en el tiempo.<br>
+<ol><li value="2"><strong>Lógicas:</strong> </li> </ol>
+&rarr; Cuando representan pasos o etapas que no constituyen una secuencia temporal.
+
+Se puede definir ciclo de vida del software como:
+
+Las distintas fases por las que pasa el software desde que nace una necesidad de mecanizar un proceso hasta que deja de utilizarse el software que sirvió para ese objetivo, pasando por las fases de desarrollo y explotación [Frakes et al., 1991]
+
+### Ámbito general del ciclo de vida del SW
+
+Desde un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas:
+
+<ol><li value="1"><strong>Planificación:</strong> idearemos un planeamiento detallado que gu e la gestión del proyecto, temporal y económicamente.</li> </ol>
+
+<ol><li value="2"><strong>Implementación:</strong> acordaremos el conjunto de actividades que componen la realización del producto.</li> </ol>
+
+<ol><li value="3"><strong>Puesta en producción:</strong> nuestro proyecto entra en la etapa de definicion, allí donde se lo presentamos al cliente o usuario final, sabiendo que funciona correctamente y responde a los requerimientos solicitados en su momento. Esta etapa es muy importante no sólo por representar la aceptación o no del proyecto por parte del cliente o usuario final sino por las multiples dificultades que suele presentar en la práctica, alargandose excesivamente y provocando costos no previstos.</li> </ol>
+
+<strong>Objetivos de cada etapa:</strong> En cada una de las etapas de un modelo de ciclo de vida, se pueden establecer una serie de objetivos, tareas y actividades que lo caracterizan.
+<li type="disc"><strong>Expresión de necesidades:</strong> esta etapa tiene como objeivo el armado de un documento en el cual se reflejan los requerimientos y funcionalidades que ofrecer al usuario el sistema a implementar (qué, y no cómo, se va a implementar)..</li>
+<li type="disc"><strong>Especificaciones:</strong> formalizamos los requerimientos; el documento obtenido en la etapa anterior se tomar como punto de partida para esta etapa.</li>
+<li type="disc"><strong>Análisis:</strong> determinamos los elementos que intervienen en el sistema a desarrollar, su estructura, relaciones, evolución temporal, funcionalidades, tendremos una descripción clara de qué producto vamos a construir, qué funcionalidades aportar y qué comportamiento tendrá.</li>
+<li type="disc"><strong>Diseño:</strong> ya sabemos qu hacer, ahora tenemos que determinar cómo debemos hacerlo (¿c mo debe ser construido el sistema en cuestion?; definimos en detalle entidades y relaciones de las bases de datos, seleccionamos el lenguaje que vamos a utilizar, el Sistema Gestor de Bases de Datos, etc.).</li>
+<li type="disc"><strong>Implementación:</strong> empezamos a codificar algoritmos y estructuras de datos, definidos en las etapas anteriores, en el correspondiente lenguaje de programación o para un determinado sistema gestor de bases de datos. En muchos proyectos se pasa directamente a esta etapa; son proyectos muy arriesgados que adoptan un modelo de ciclo de vida de code & x (codificar y corregir) donde se eliminan las etapas de especificaciones, análisis y diseño con la consiguiente pérdida de control sobre la gestió del proyecto.</li>
+<li type="disc"><strong>Diseño:</strong> ya sabemos qu hacer, ahora tenemos que determinar cómo debemos hacerlo (¿c mo debe ser construido el sistema en cuestion?; definimos en detalle entidades y relaciones de las bases de datos, seleccionamos el lenguaje que vamos a utilizar, el Sistema Gestor de Bases de Datos, etc.).</li>
+<li type="disc"><strong>Debugging:</strong> el objetivo de esta etapa es garantizar que nuestro programa no con ene errores de diseño o codificación. En esta etapa no deseamos saber si nuestro programa realiza lo que solicit el usuario, esa tarea le corresponde a la etapa de implementación. En esta deseamos encontrar la mayor cantidad de errores. Todas los programas contienen errores: encontrarlos es cuestion de tiempo. Lo ideal es encontrar la mayoría, si no todos, en esta etapa. También se pueden agregar testeos de performance.</li>
+<li type="disc"><strong>Validación:</strong> esta etapa tiene como objetivo la verificación de que el sistema desarrollado cumple con los requerimientos expresados inicialmente por el cliente y que han dado lugar al presente proyecto. En muchos proyectos las etapas de validación y debugging se realizan en paralelo por la estrecha relación que llevan. Sin embargo, tenemos que evitar la confusión: podemos realizarlos en paralelo, pero no como una única etapa.</li>
+<li type="disc"><strong>Evolución:</strong> en la mayoría de los proyectos se considera esta etapa como Mantenimiento y evolución, y se le asigna, no sólo el agregado de nuevas funcionalidades (evolución); sino la corrección de errores que surgen (mantenimiento). En la práctica esta denominación no es del todo errónea, ya que es posible que aun luego de una etapa de debugging y validación exhaustiva,se filtren errores.</li>
+
+### Razones para modelar un proceso de SW
+
+<li type="disc">Cuando se pone por escrito una descripción de un proceso, se da forma a una comprensión común de las actividades, recursos y restricciones relacionados con el desarrollo del software.</li>
+<li type="disc">Ayuda al equipo de desarrollo a encontrar las inconsistencias, las redundancias y las omisiones en el proceso y en las partes que lo constituyen.</li>
+<li type="disc">El modelo debe reflejar las metas del desarrollo. A medida que se construye el modelo el equipo de desarrollo eval a las actividades candidatas por su adecuación para alcanzar dichas metas.</li>
+<li type="disc">Ayuda al equipo de desarrollo a comprender dónde debe adaptarse el proceso.</li>
+<li type="disc">Los modelos de proceso de desarrollo de software incluyen los requisitos del sistema como entrada y un producto entregado como salida.</li>
+
+### Modelo general de proceso en Ingeniería
+
+<li type="disc"><strong>Especificación:</strong> formulación de los requisitos y restricciones del sistema.</li>
+<li type="disc"><strong>Diseño:</strong> elaboración de un documento con el modelo del sistema.</li>
+<li type="disc"><strong>Fabricación:</strong> construcción del sistema.</li>
+<li type="disc"><strong>Prueba:</strong> comprobación de que el sistema cumple las especificaciones requeridas.</li>
+<li type="disc"><strong>Instalación:</strong> entrega del sistema al cliente y garantía de que es operativo.</li>
+<li type="disc"><strong>Mantenimiento:</strong> reparación de los fallos que aparecen en el sistema.</li>
+
+En el proceso de construcción de sistemas informáticos se pueden distinguir tres fases genéricas:
+
+<ol><li value="1"><strong>Fase de defenición:</strong> </li> </ol>
+
+<li type="square">Se identifican los requisitos claves del sistema y del software</li>
+
+<li type="square">Se desarrolla un Análisis de Sistemas: Se define el papel de cada elemento en el sistema automatizado de información, incluyendo el que jugará el software.</li>
+
+<li type="square">Se desarrolla un Análisis de Requisitos: Se especifican todos los requisitos de usuario que el sistema tiene que satisfacer. 
+Esta fase está orientada al QUÉ: Qué información ha de ser procesada, qué función y rendimiento se desea, qué interfaces han de establecerse, qué ligaduras de diseño existen y qué criterios de validación se necesitan para definir un sistema correcto
+</li>
+
+<li type="square">Existe un paso complementario: la planificación del proyecto software:<br>-Se asignan los recursos<br>-Se estiman los costos<br>-Se planifican
+</li>
+
+<ol><li value="2"><strong>Fase de defenición:</strong> </li> </ol>
+
+<li type="square">Fase orientada al CÓMO</li>
+<li type="square">El primer paso de esta fase corresponde al Diseño del Software.</li>
+<li type="square">Se trasladan los requisitos del software a un conjunto de representaciones que describen la estructura de datos, arquitectura del software y procedimientos algorítmicos que permiten la construcción física de dicho software.</li>
+<li type="square">Los otros dos pasos de la fase de desarrollo corresponden a la Codificación y a la Prueba del Software.</li>
+
+<ol><li value="3"><strong>Fase de defenición:</strong> </li> </ol>
+
+<li type="square">Mantenimiento correctivo: corrección de errores.</li>
+<li type="square">Mantenimiento adaptativo: adaptaciones requeridas por la evolución del entorno del software.</li>
+<li type="square">Mantenimiento perfectivo: las modificaciones debidas a los cambios de requisitos del usuario para mejorar el sistema.</li>
+<li type="square">Mantenimiento preventivo: mejora de las características internas del producto para hacer más mantenible</li>
+
+## 2.3 Modelo de procesos de software
+
+### El modelo de cascada
+
+![alt text](https://user-images.githubusercontent.com/57689841/70856402-e6dc8100-1ea1-11ea-867d-d55c08818bbf.PNG "Figura5")
+
+<strong>Beneficios:</strong>
+
+<li type="disc">El costo de atender las necesidades cambiantes de los clientes se reduce.</li>
+<li type="disc">La cantidad de análisis y la documentación que tiene que ser hecho de nuevo es mucho menor que la que se requiere con el modelo de cascada.</li>
+<li type="disc">Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.</li>
+<li type="disc">Los clientes pueden hacer comentarios sobre las manifestaciones del software y ver cuánto se ha implementado.</li>
+
+<strong>Problemas:</strong>
+
+<li type="disc">El proceso no es visible.</li>
+<li type="disc">Los gerentes necesitan entregas regulares para medir el progreso. Si se desarrollan rápidamente los sistemas, no es rentable para producir documentos que reflejen todas las versiones del sistema.</li>
+<li type="disc">Estructura del sistema tiende a degradarse a medida que se añaden nuevos incrementos.</li>
+<li type="disc">A menos tiempo y dinero que se gasta en la refactorización para mejorar el software, cambio regular tiende a corromper su estructura. La incorporación de nuevos cambios de software se vuelve cada vez más difícil y costoso.</li>
