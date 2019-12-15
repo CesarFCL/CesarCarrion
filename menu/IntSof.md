@@ -7,10 +7,13 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 
 <font color="black"><strong><big>Índice:</big> </strong> </font>
 <strong><a href="#indice1">1. Unidad 1</a> </strong> <br>
-<strong><a href="#subindice1">1.1 Fundamentos de la Ingeniría de Software</a> </strong> <br> 
-<strong><a href="#subindice2">1.2 Procesos de Ingeniería de Software</a> </strong> <br> 
-<strong><a href="#subindice3">1.3 Sistemas de información</a> </strong> <br> 
+<strong><a href="#subindice1.1">1.1 Fundamentos de la Ingeniría de Software</a> </strong> <br> 
+<strong><a href="#subindice1.2">1.2 Procesos de Ingeniería de Software</a> </strong> <br> 
+<strong><a href="#subindice1.3">1.3 Sistemas de información</a> </strong> <br> 
 <strong><a href="#indice2">2. Unidad 2</a> </strong>
+<strong><a href="#subindice2.1">2.1 Proceso del Software</a> </strong> <br>
+<strong><a href="#subindice2.2">2.2 El ciclo de vida del Software</a> </strong> <br>
+<strong><a href="#subindice2.3">2.3 Modelo de procesos de software</a> </strong> <br>
 <a name="indice1"></a>
 
 <center><font color="black"><strong><big><big><big>Unidad 1:</big> </big> </big> </strong> </font> </center>
@@ -428,9 +431,10 @@ comportamiento de los usuarios frente al sistema.
 Particularmente, debieran asegurar que nunca, bajo ninguna
 circunstancia un usuario tenga acceso directo a la Base de
 Datos.</li> <br>
-
+<a name="indice2"></a>
 <center><font color="black"><strong><big><big><big>Unidad 2:</big> </big> </big> </strong> </font> </center>
 <center><font color="black"><strong><big><big><big>Modelo de proceso del Software </big> </big> </big> </strong> </font> </center>
+<a name="subindice2.1"></a>
 
 ## 2.1 Proceso del Software
 
@@ -507,6 +511,7 @@ definir, controlar y mejorar los procesos del ciclo de vida del
 software dentro de una organización o de un proyecto.</li>
 
 <li type="disc">Esta norma no fomenta o especifica ningún modelo concreto de ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades.</li>
+<a name="subindice2.2"></a>
 
 ## 2.2 El ciclo de vida del Software
 
@@ -599,6 +604,7 @@ Esta fase está orientada al QUÉ: Qué información ha de ser procesada, qué f
 <li type="square">Mantenimiento adaptativo: adaptaciones requeridas por la evolución del entorno del software.</li>
 <li type="square">Mantenimiento perfectivo: las modificaciones debidas a los cambios de requisitos del usuario para mejorar el sistema.</li>
 <li type="square">Mantenimiento preventivo: mejora de las características internas del producto para hacer más mantenible</li>
+<a name="subindice2.3"></a>
 
 ## 2.3 Modelo de procesos de software
 
@@ -758,7 +764,7 @@ Dadas estas tres suposiciones, surge una pregunta
 importante ¿cómo crear un proceso que pueda manejar lo
 impredecible? La respuesta, como ya se dijo, está en la
 adaptabilidad del proceso (al cambio rápido del proyecto y
-a las condiciones técnicas) Por tanto, un proceso ágil debe
+a las condiciones técnicas). Por tanto, un proceso ágil debe
 ser adaptable.
 
 Un proceso de software ágil debe adaptarse
@@ -768,7 +774,7 @@ modo que sea posible hacer las adaptaciones apropiadas).
 
 Un catalizador eficaz para la retroalimentación con el
 cliente es un prototipo operativo o una porción de un
-sistema operativo Qué estrategia se debe aplicar?
+sistema operativo. -Qué estrategia se debe aplicar?
 
 Este enfoque iterativo permite que el cliente evalúe en
 forma regular el incremento de software, dé la
@@ -778,7 +784,7 @@ aprovechar la retroalimentación.
 
 <strong>Principios:</strong>
 
-La Alianza Ágil (véase [Agi 03 ]),]),[Fow 01 define 12
+La Alianza Ágil define 12
 principios de agilidad para aquellos que la quieran alcanzar:
 
 <ol><li value="1"> La prioridad más alta es satisfacer al cliente a través de la
@@ -837,7 +843,7 @@ participantes.</li>
 <li type="disc"><strong>Capacidad para resolver problemas difusos:</strong> Los gerentes de software deben reconocer que el equipo ágil tendrá que tratar en forma continua con la ambigüedad y que será sacudido de manera permanente por el cambio.</li>
 <li type="disc"><strong>Confianza y respeto mutuos:</strong> El equipo ágil debe convertirse en un equipo “pegado”. Un equipo pegado tiene la confianza y respeto que son necesarios para hacer “su tejido tan fuerte que el todo es más que la suma de sus partes” [DeM98].</li>
 <li type="disc"><strong>Organización propia:</strong> En el contexto del desarrollo ágil, la
-organización propia implica tres cosas:</li><br>
+organización propia implica tres cosas:</li>
 &rarr; El equipo ágil se organiza a sí mismo para hacer el trabajo.<br>
 &rarr; El equipo organiza el proceso que se adapte mejor a su
 ambiente local.<br>
