@@ -58,15 +58,15 @@ a:hover {
 }
 
 img {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   border-radius: 5px;
 }
 
 blockquote {
-  margin: 5px 10px 5px;
-  padding: 0px 7px;
-  border-left: 0.25em solid #ccc;
+  margin: 10px 40px 10px;
+  padding: 0px 15px;
+  border-left: 1.25em solid #ccc;
   color: #999;
   line-height: 1.5;
 }
@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 940px;
 }
 
 /*48em*/
