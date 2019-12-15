@@ -1,9 +1,10 @@
 ---
 layout: page
-title: ¿Quién soy?
+title: <center>¿Quién soy?</center>
 ---
 
-![alt text](https://user-images.githubusercontent.com/57689841/69906425-b9171880-1388-11ea-90a1-89c1811fa78b.PNG "César Carrión")
+<center><img src="https://user-images.githubusercontent.com/57689841/69906425-b9171880-1388-11ea-90a1-89c1811fa78b.PNG"
+     alt="César"></center>
 
 Soy un joven estudiante universitario de 18 años Ecuatoriano y actualmente residiendo en la ciudad de Guayaquil donde me encuentro cursando el primer semestre de la carrera de Ingenieria en Software en la Universidad de Guayaquil. 
 
