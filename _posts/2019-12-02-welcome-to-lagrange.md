@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plantilla Usada"
-author: "Paul Le"
+author: "César Carrión"
 categories: journal
 tags: [documentation,sample]
 image: ImgJekyll.png
