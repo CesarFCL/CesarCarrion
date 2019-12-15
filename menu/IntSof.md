@@ -862,3 +862,9 @@ Luca.</strong></li>
 <li type="disc"><strong>Extreme Programming, Kent Beck</strong></li>
 <li type="disc"><strong>Adaptative Software Development, Jim Highsmith.</strong></li>
 <li type="disc"><strong>Kanban.</strong></li>
+
+<hr>
+
+<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view">Syllabus</a> </big> </big> </strong> </font> </center> 
+
+<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view">Plan Analítico</a> </big> </big> </strong> </font> </center> 
