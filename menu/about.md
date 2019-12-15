@@ -19,8 +19,6 @@ Dentro del ambito de la programación mi experiencia es muy escasa y únicamente
 
 ### Competencias
 
-Dentro de mis competencias que he ido desarrollando con el tiempo se destacan las siguientes:
-
 <li type="disc"><strong>Adaptabilidad</strong></li>
 <li type="disc"><strong>Liderazgo</strong></li>
 <li type="disc"><strong>Trabajo en equipo</strong></li>

@@ -4,7 +4,7 @@ title: "Plantilla Usada"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: ImgJekyll.jpg
 ---
 
 Para realizar esta pagina web se ha usado una plantilla de <a href="http://jekyllthemes.org/" taregt="_blank">Jekyll</a>, especificamente la plantilla <a href="http://jekyllthemes.org/themes/lagrange/" target="_blank">Lagrange</a>, creada por Paul Le.

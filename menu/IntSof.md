@@ -866,9 +866,8 @@ Luca.</strong></li>
 
 <hr>
 <a name="syllabus"></a>
-<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view">Syllabus</a> </big> </big> </strong> </font> </center> 
+<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view" taregt="_blank">Syllabus</a> </big> </big> </strong> </font> </center> 
 
-
-<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view">Plan Analítico</a> </big> </big> </strong> </font> </center> 
+<center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view" taregt="_blank">Plan Analítico</a> </big> </big> </strong> </font> </center> 
 
 <hr>
