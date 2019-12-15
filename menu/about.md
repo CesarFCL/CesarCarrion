@@ -10,11 +10,12 @@ Soy un joven estudiante universitario de 18 años ecuatoriano, mi nombre complet
 
 Me considero una persona dinámica, creativa y responsable, con facilidad de adaptación y con una buena capacidad de trabajo en equipo así como la capacidad de tomar la iniciativa y resolver problemas de manera eficaz logrando cumplir aquellas metas y objetivos trazados.
 
-### Experiencia/Conocimientos en programación
-<img src="https://user-images.githubusercontent.com/57689841/70858857-8cf2b000-1ecf-11ea-8593-c894fc715779.png"
+## Experiencia/Conocimientos en programación
+
+<img src="https://user-images.githubusercontent.com/57689841/70858939-bc55ec80-1ed0-11ea-83a7-b99babbfbf02.png"
      alt="Lenguajes de programación"
-     width="1024"
-     height="321">
+     width="1280"
+     height="429">
 
 Dentro del ambito de la programación mi experiencia es muy escasa y únicamente tengo pequeñas bases de los siguientes lenguajes de programación:
 
@@ -22,7 +23,7 @@ Dentro del ambito de la programación mi experiencia es muy escasa y únicamente
 <li type="disc"><strong>C</strong></li>
 <li type="disc"><strong>Java</strong></li>
 
-### Competencias
+## Competencias
 
 <li type="disc"><strong>Adaptabilidad</strong></li>
 <li type="disc"><strong>Liderazgo</strong></li>
