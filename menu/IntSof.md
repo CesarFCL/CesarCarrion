@@ -14,6 +14,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 <strong><a href="#subindice2.1">2.1 Proceso del Software</a> </strong> <br>
 <strong><a href="#subindice2.2">2.2 El ciclo de vida del Software</a> </strong> <br>
 <strong><a href="#subindice2.3">2.3 Modelo de procesos de software</a> </strong> <br>
+<strong><a href="#syllabus">Syllabus/Plan Analítico</a> </strong> <br>
 <a name="indice1"></a>
 
 <center><font color="black"><strong><big><big><big>Unidad 1:</big> </big> </big> </strong> </font> </center>
@@ -864,7 +865,7 @@ Luca.</strong></li>
 <li type="disc"><strong>Kanban.</strong></li>
 
 <hr>
-
+<a name="syllabus"></a>
 <center><font color="black"><strong><big><big><a href="https://drive.google.com/file/d/1804Ub8QPLFLnkqGhpNqJqpDvdv2kMlNZ/view">Syllabus</a> </big> </big> </strong> </font> </center> 
 
 
