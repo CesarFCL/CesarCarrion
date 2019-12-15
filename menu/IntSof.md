@@ -312,7 +312,7 @@ Existen áreas donde los estándares de comportamiento aceptable no están acota
 
 <li type="disc"><strong>Uso inapropiado de las computadoras.</strong> No debe emplear sus habilidades técnicas para utilizar de forma inapropiada las computadoras de otras personas. Desde los relativamente triviales (utilizar juegos en las maquina de un empleado, por ejemplo) hasta los extremadamente serios (difusión de virus).</li>
 
-### Código de éDca (ACM/IEEE)
+### Código de ética (ACM/IEEE)
 
 Los ingenieros de software deberán comprometerse consigo mismo en convertir el análisis, especificación, diseño, desarrollo, prueba y mantenimiento de software en una profesión respetable y beneficiosa. 
 
