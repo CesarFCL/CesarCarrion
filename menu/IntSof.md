@@ -25,7 +25,7 @@ En este apartado se colocara todo el material recibido durante las clases de Int
 
 <center><font color="black"><strong><big><big><big>Unidad 1:</big> </big> </big> </strong> </font> </center>
 <center><font color="black"><strong><big><big><big>Introducción de la Ingenieria de Sofware</big> </big> </big> </strong> </font> </center>
-<a name="subindice1"></a>
+<a name="subindice1.1"></a>
 
 ## 1.1 Fundamentos de la Ingeniría de Software(IS)
 
@@ -159,7 +159,7 @@ Las direcciones en las que evoluciona la ingeniería del software hoy en día pu
 <li type="disc"><strong>Desarrollo dirigido por modelos:</strong> primero se desarrollan modelos textuales gráficos del software a construir, y posteriormente se construye el software.</li>
 
 <li type="disc"><strong>Líneas de productos software,</strong> en lugar de productos individuales.</li>
-<a name="subindice2"></a>
+<a name="subindice1.2"></a>
 
 ## 1.2 Procesos de Ingeniería de Software
 
@@ -344,7 +344,7 @@ De acuerdo con su compromiso con la salud, seguridad y bienestar del público, l
 comprensivos con sus colegas.</li>
 
 <li type="disc"><strong>Interés Propio.</strong> Los ingenieros de software deberán participar en el aprendizaje de por vida del ejercicio de su profesión y deberán promover un enfoque ético para el ejercicio de la misma.</li>
-<a name="subindice3"></a>
+<a name="subindice1.3"></a>
 
 ## 1.3 Sistemas de información
 
