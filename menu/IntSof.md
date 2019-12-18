@@ -8,7 +8,7 @@ title: Introducción de la Ingeniería de Software
      width="1024"
      height="321">
 
-En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la Universidad de Guayaquil (UG).
+En este apartado se colocara todo el material recibido durante las clases de Introducción de la Ingenieria de Software durante el primer semestre de Ingenieria en Software en la <a href="http://www.ug.edu.ec/" target="_blank">Universidad de Guayaquil</a> (UG).
 
 <font color="black"><big><strong>Profesor: </strong>Ing. Miguel Botto-Tobar, MSc</big></font><br>
 <font color="black"><strong><big>Índice:</big> </strong> </font>
