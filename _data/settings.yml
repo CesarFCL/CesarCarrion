@@ -7,8 +7,8 @@ disqus:
 # google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Quién soy', path: 'menu', url: 'about.html'}
-- {name: 'Publicaciones', path: 'menu', url: 'writing.html'}
+- {name: 'Quién soy', path: 'menu', url: 'Quién-soy.html'}
+- {name: 'Publicaciones', path: 'menu', url: 'Publicaciones.html'}
 #- {name: 'Contacto', path: 'menu', url: 'contact.html'}
 - {name: 'Introducción Ing.Software', path: 'menu', url: 'IntSof.html'}
 
