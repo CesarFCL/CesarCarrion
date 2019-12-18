@@ -3,7 +3,9 @@ layout: page
 title: Publicaciones
 ---
 <p> 
-<img src="https://user-images.githubusercontent.com/57689841/71111940-1a642780-2190-11ea-80e1-4ec5c94729f6.jpg" align="right"><ul class="posts">
+<img src="https://user-images.githubusercontent.com/57689841/71111940-1a642780-2190-11ea-80e1-4ec5c94729f6.jpg" align="right" alt="Escribir"
+     width="1024"
+     height="321"><ul class="posts">
   {% for post in site.posts %}
 
     {% unless post.next %}
