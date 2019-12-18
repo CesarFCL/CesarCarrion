@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Punto de partida"
+title: "Punto de Partida"
 author: "César Carrión"
-categories: journal
+categories: diario
 tags: [documentation,sample]
 image: LProg.jpg
 ---

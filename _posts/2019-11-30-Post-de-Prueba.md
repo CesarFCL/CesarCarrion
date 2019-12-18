@@ -2,7 +2,7 @@
 layout: post
 title: "Post de Prueba"
 author: "César Carrión"
-categories: journal
+categories: varios
 tags: [documentation,sample]
 image: test.jpg
 ---

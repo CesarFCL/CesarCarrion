@@ -2,7 +2,7 @@
 layout: post
 title: "Primeras Impresiones"
 author: "César Carrión"
-categories: journal
+categories: diario
 tags: [documentation,sample]
 image: HTML.jpg
 ---

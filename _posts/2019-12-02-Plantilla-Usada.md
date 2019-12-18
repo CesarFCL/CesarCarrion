@@ -2,7 +2,7 @@
 layout: post
 title: "Plantilla Usada"
 author: "César Carrión"
-categories: journal
+categories: diario
 tags: [documentation,sample]
 image: ImgJekyll.png
 ---
