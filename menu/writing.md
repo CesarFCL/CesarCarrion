@@ -2,7 +2,8 @@
 layout: page
 title: Publicaciones
 ---
-<ul class="posts">
+<p> 
+<img src="https://user-images.githubusercontent.com/57689841/71111940-1a642780-2190-11ea-80e1-4ec5c94729f6.jpg" align="right"><ul class="posts">
   {% for post in site.posts %}
 
     {% unless post.next %}
@@ -21,4 +22,5 @@ title: Publicaciones
     </li>
 
   {% endfor %}
-</ul>
+</ul> 
+</p>
