@@ -1,9 +1,9 @@
 ---
 layout: page
-title: <!--¿Quién soy?-->
+title: ¿Quién soy?
 ---
 
-<center><font color="black"><strong><big><big><big>¿Quién soy?:</big> </big> </big> </strong> </font> </center>
+<center><font color="black"><strong><big><big><big>¿Quién soy?</big> </big> </big> </strong> </font> </center>
 <center><img src="https://user-images.githubusercontent.com/57689841/69906425-b9171880-1388-11ea-90a1-89c1811fa78b.PNG"
      alt="César"></center>
 
