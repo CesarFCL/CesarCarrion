@@ -67,8 +67,6 @@ Su origen se debió a que el entorno de desarrollo de sistemas software adolecí
 
 <li type="disc">Poca productividad</li>
 
-<li type="disc">Retrasos considerables en la planificación</li>
-
 <li type="disc">Elevadas cargas de mantenimiento</li>
 
 <li type="disc">Demandas cada vez más desfasadas frente a las ofertas</li>
