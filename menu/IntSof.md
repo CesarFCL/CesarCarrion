@@ -624,7 +624,8 @@ Las fases están identificadas por separado:
 <li type="disc">Pruebas de implementación de unidades</li>
 <li type="disc">Integración y pruebas del sistema</li>
 <li type="disc">Operación y mantenimiento</li>
-<li type="disc">El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</li>
+
+El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.
 
 <strong>Problemas del modelo cascada:</strong>
 
