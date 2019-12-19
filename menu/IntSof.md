@@ -547,7 +547,7 @@ Las distintas fases por las que pasa el software desde que nace una necesidad de
 
 Desde un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas:
 
-<ol><li value="1"><strong>Planificación:</strong> idearemos un planeamiento detallado que gu e la gestión del proyecto, temporal y económicamente.</li> </ol>
+<ol><li value="1"><strong>Planificación:</strong> idearemos un planeamiento detallado que guíe la gestión del proyecto, temporal y económicamente.</li> </ol>
 
 <ol><li value="2"><strong>Implementación:</strong> acordaremos el conjunto de actividades que componen la realización del producto.</li> </ol>
 
