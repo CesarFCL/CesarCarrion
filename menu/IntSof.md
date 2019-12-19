@@ -187,11 +187,11 @@ Estas son los puntos críticos en el diseño, codificación, pruebas y mantenimi
 
 Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente.</ol>
 
-<li type="disc"><strong>Corrección:</strong> es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.</li>
+<li type="disc"><strong>Corrección:</strong> Es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.</li>
 
-<li type="disc"><strong>Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).</li>
+<li type="disc"><strong>Facilidad de Mantenimiento:</strong> Es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).</li>
 
-<li type="disc"><strong>Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).</li>
+<li type="disc"><strong>Integridad:</strong> Es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).</li>
 
 Por ejemplo, dados los siguientes valores de un paquete de base de datos en dos proyectos, podemos calcular la integridad.
 
@@ -211,7 +211,7 @@ Si por otra parte, la probabilidad de amenaza fuera 0.5 y la posibilidad de repe
 
 <ol><li value="3"><strong>Métricas de calidad:</strong> Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</li>
 
-<li value="4"><strong>Métricas de costo:</strong> se centra en el costo total del sistema informático.</li>
+<li value="4"><strong>Métricas de costo:</strong> Se centra en el costo total del sistema informático.</li>
 
 <li value="5"><strong>Métricas orientadas al tamaño:</strong> Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.</li> </ol>
 
@@ -237,7 +237,7 @@ Según la definición del IEEE, "software es la suma total de los programas de o
 
 El software puede dividirse en dos grandes categorías:
 
-<ol><li value="1"><strong>Software de aplicaciones:</strong> se usan para proveer servicios a clientes y ejecutar negocios de forma más eficiente. El software de aplicaciones puede ser un sistema pequeño o uno grande integrado. Como ejemplos de este tipo de software estarían un sistema de cuentas, un sistema de planificación de recursos...</li> </ol>
+<ol><li value="1"><strong>Software de aplicaciones:</strong> Se usan para proveer servicios a clientes y ejecutar negocios de forma más eficiente. El software de aplicaciones puede ser un sistema pequeño o uno grande integrado. Como ejemplos de este tipo de software estarían un sistema de cuentas, un sistema de planificación de recursos...</li> </ol>
 
 <ol><li value="2"><strong>Software de sistemas:</strong> El software de sistemas se usa para operar y mantener un sistema informático. Permite a los usuarios usar los recursos del ordenador directamente y a través de otro software. Algunos ejemplos de este tipo de software son los sistemas operativos, compiladores y otras utilidades del sistema.</li> </ol>
 
