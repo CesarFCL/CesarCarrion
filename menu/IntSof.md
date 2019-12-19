@@ -598,14 +598,14 @@ Esta fase está orientada al QUÉ: Qué información ha de ser procesada, qué f
 <li type="square">Existe un paso complementario: la planificación del proyecto software:<br>-Se asignan los recursos<br>-Se estiman los costos<br>-Se planifican
 </li>
 
-<ol><li value="2"><strong>Fase de defenición:</strong> </li> </ol>
+<ol><li value="2"><strong>Fase de desarrollo:</strong> </li> </ol>
 
 <li type="square">Fase orientada al CÓMO</li>
 <li type="square">El primer paso de esta fase corresponde al Diseño del Software.</li>
 <li type="square">Se trasladan los requisitos del software a un conjunto de representaciones que describen la estructura de datos, arquitectura del software y procedimientos algorítmicos que permiten la construcción física de dicho software.</li>
 <li type="square">Los otros dos pasos de la fase de desarrollo corresponden a la Codificación y a la Prueba del Software.</li>
 
-<ol><li value="3"><strong>Fase de defenición:</strong> </li> </ol>
+<ol><li value="3"><strong>Fase de mantenimiento:</strong> </li> </ol>
 
 <li type="square">Mantenimiento correctivo: corrección de errores.</li>
 <li type="square">Mantenimiento adaptativo: adaptaciones requeridas por la evolución del entorno del software.</li>
